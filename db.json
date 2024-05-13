@@ -1,9 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "movies": [
+    {
+      "id": "1",
+      "title": "Spider-Man: No way home",
+      "posterImg": "https://i.ebayimg.com/images/g/EtoAAOSwYUFj~R7m/s-l1200.webp",
+      "releaseYear": "2021",
+      "genre": "Action"
+    },
+    {
+      "id": "2",
+      "title": "Fury",
+      "posterImg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOvuNs46WYgmsBrb3PqpoDJJHpTWpRA4184bcGdtcXo-u4Tq4X",
+      "releaseYear": "2014",
+      "genre": "War"
+    },
+    {
+      "id": "3",
+      "title": "The Tearsmith",
+      "posterImg": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7igegLmMUbbFDHKzVTMwstD-PAe9cgXe3xXIuLneQ9ooG09VX",
+      "releaseYear": "2024",
+      "genre": "Romance"
+    },
+    {
+      "id": "4",
+      "title": "Don't Listen",
+      "posterImg": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1STclpcL5q-ILkfJjNDVx8J8bVRVlpKzmT8s0AYm4-2dyydk-",
+      "releaseYear": "2020",
+      "genre": "Horror"
+    },
+    {
+      "id": "5",
+      "title": "Fifty Shades of Grey",
+      "posterImg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ4xbvn_z95ksYHDdbrIsCEsEOtfi2a5RtgFNr2uDAp13nHlMkF",
+      "releaseYear": "2015",
+      "genre": "Erotic"
+    },
+    {
+      "id": "sDuwu0ABBP9poPWV9_YBw",
+      "title": "Art of Love",
+      "posterImg": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2ob8ZgZhr-3cJvuqwC7AbBow9Qrqj0VZiIQxn2YNuU1jr8VVg",
+      "releaseYear": "2024",
+      "genre": "Romantic"
+    }
+  ]
 }
